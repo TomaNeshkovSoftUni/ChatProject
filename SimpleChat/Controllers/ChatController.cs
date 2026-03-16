@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SimpleChat.Models;
+using ChatProject.Models;
 
-namespace SimpleChat.Controllers
+namespace ChatProject.Controllers
 {
     public class ChatController : Controller
     {

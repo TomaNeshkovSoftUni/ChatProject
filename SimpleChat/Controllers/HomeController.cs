@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using SimpleChat.Models;
+using ChatProject.Models;
 using System.Diagnostics;
 
-namespace SimpleChat.Controllers
+namespace ChatProject.Controllers
 {
     public class HomeController : Controller
     {

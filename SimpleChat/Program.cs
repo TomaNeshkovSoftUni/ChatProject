@@ -1,4 +1,4 @@
-namespace SimpleChat
+namespace ChatProject
 {
     public class Program
     {

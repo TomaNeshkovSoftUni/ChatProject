@@ -1,4 +1,4 @@
-namespace SimpleChat.Models
+namespace ChatProject.Models
 {
     public class ErrorViewModel
     {
